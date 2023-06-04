@@ -29,3 +29,11 @@ Zaylon Proxy Checker is a tool used to verify the status of proxies. It checks t
 6. The program will display the results of the proxy check, including the status (good or bad) for each proxy.
 7. After the scan is complete, the program will provide the number of good and bad proxies found.
 8. If sending to a Discord webhook, the program will send the good proxies in batches to the webhook.
+
+## Contributing
+
+If you would like to contribute to Zaylon Proxy Checker, you can open a new issue or submit a pull request on the GitHub repository.
+
+---
+
+Enjoy using Zaylon Proxy Checker! If you have any questions or encounter any issues, feel free to contact me.
